@@ -1,1 +1,1 @@
-https://github.com/Sponsor32/rsschool-cv/
+https://sponsor32.github.io/rsschool-cv/cv
